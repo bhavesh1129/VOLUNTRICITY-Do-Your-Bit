@@ -1,7 +1,7 @@
 ## Voluntricity- Do Your Bit
 
 ##### Link to our Presentation: https://docs.google.com/presentation/d/1tX7SEcPBJGtojwgD-g2cIn9_zsSdBTl9f0XJUlRyBxg/edit?usp=sharing
-##### Link to our Project: 
+##### Link to our Project: https://bhavesh1129.github.io/VOLUNTRICITY-Do-Your-Bit/
 
 ### Problem Statement: :thinking:    
 In a smart city, community service is an opportunity for the people to contribute towards the betterment and development of the city as well as in helping to maintain the status of a smart city. But there isn’t any proper platform where people can find those opportunities or post any requirement whether personal or organisational. Many times local people are unable to find help and volunteers for community services. Due to COVID-19 many people are in dire need of help and there are many kind souls that want to help them but don’t have any platform to collaborate. Our aim is to provide such people a platform where they can connect with other people and find help free of cost and do their part of being a better citizen by helping others in organising cleanup drives, donation drives, hunger relief drives, shifting, blood donation, helping senior citizens, doing taxes, teaching, coaching, sport events, animal adoption, COVID-19 supplies distribution, plasma donation, helping NGOs, tech support etc. We also aim to acknowledge people’s work by providing certificates to them as a token of appreciation.
