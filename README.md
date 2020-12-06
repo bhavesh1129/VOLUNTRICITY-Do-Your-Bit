@@ -8,7 +8,7 @@ In a smart city, community service is an opportunity for the people to contribut
 
 ### Solution Overview::right_anger_bubble:
 1. Our platform will provide one stop solution to all the volunteer needs. We intend to provide a space for people to find people who are passionate about and committed to their cause, and who can help when and where they need them. Since a lot of places are cutting costs and with many people in need, this is one step to build a kinder community. Our solution would have a positive impact on people who are in need but cannot afford to pay for help. 
-2. We intend to make a website using HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, MYSQL. Our database implemented using MySql and PHP would provide a seamless experience to users. Our website would be optimized for different screen sizes making it adaptable to different resolutions. 
+2. We intend to make a website using `HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, MYSQL`. Our database implemented using MySql and PHP would provide a seamless experience to users. Our website would be optimized for different screen sizes making it adaptable to different resolutions. 
 3. One constraint would be the reliability and credibility of people who volunteer or of the people who post requirements.
 
 ### Impact: :scroll:    
